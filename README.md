@@ -16,5 +16,17 @@ Compile:
     ./wt aiv
     avi: Audio Video Interleave file.
     
-    ./ main.c
+    ./wt main.c
+    main.c: C language file.
+
+Or move wt to /usr/local/bin
+
+    mv wt /usr/local/bin
+    
+And then
+
+    wt aiv
+    avi: Audio Video Interleave file.
+    
+    wt main.c
     main.c: C language file.
