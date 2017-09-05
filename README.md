@@ -7,7 +7,7 @@ Easy UNIX filetype lookup.
 
 clone the rep: git clone ht&#8203;tps://git@github.com:roecrew/wt.git
 
-Create:
+Compile:
 
     gcc main.c -o wt
 
