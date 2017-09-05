@@ -1,5 +1,5 @@
 # wt
-Ever wonder what that one filetype was?
+Easy UNIX filetype lookup.
 
 ## Quick Start
 
