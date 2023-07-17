@@ -9,7 +9,7 @@ Now supports 1,646 file extensions!
 
 [Download the rep](https://github.com/maelswarm/wt/archive/master.zip)
 
-clone the rep: git clone ht&#8203;tps://git@github.com:roecrew/wt.git
+clone the rep: git clone ht&#8203;tps://git@github.com:maelswarm/wt.git
 
 Compile:
 
