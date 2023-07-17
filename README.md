@@ -1,6 +1,10 @@
 # wt
 Easy UNIX filetype lookup.
 
+## Updates
+
+Now supports 1,646 file extensions!
+
 ## Quick Start
 
 [Download the rep](https://github.com/roecrew/wt/archive/master.zip)
@@ -26,7 +30,7 @@ Or move wt to /usr/local/bin
 And then
 
     wt aiv
-    avi: Audio Video Interleave file.
+    Audio Video Interleave file.
     
     wt main.c
-    main.c: C language file.
+    C language file.
